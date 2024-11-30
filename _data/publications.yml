@@ -13,5 +13,11 @@ main:
     image: "/assets/img/m4oe.PNG"
     notes: "Multimodal Multitask Mixture of Experts"
 
+  - title: "Efficient In-Context Medical Segmentation with Meta-driven Visual Prompt Selection"
+    authors: "Wu et al 2024"
+    conference_short: "MICCAI' 24"
+    pdf: "https://papers.miccai.org/miccai-2024/paper/3444_paper.pdf"
+    image: "/assets/img/m4oe.PNG"
+    notes: "Visual Prompt Selection for In-context Learning"
 
   
