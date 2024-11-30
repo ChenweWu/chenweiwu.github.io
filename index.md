@@ -24,10 +24,7 @@ Please feel free to reach out to me at chenweiwu99@gmail.com I'd love to engage 
 
 
 ## News
-- **[OCT. 2024]** I submitted a first author paper to !
-- **[OCT. 2024]** My paper !
-- **[Jul. 2024]** One paper I collaborated was submitted to Cell iscience!
-- **[Sep. 2023]** Joined Biomedical Ai Lab!
+- **[OCT. 2024]** I submitted a paper to ICLR!
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/presentations.md %}
