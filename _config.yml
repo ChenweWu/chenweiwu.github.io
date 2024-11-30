@@ -1,8 +1,8 @@
 # Basic Information 
-title: Zhengxu Tang
-position: Undergraduate Student
+title: Chenwei Wu
+position: Biomedical AI researcher
 affiliation: University of Michigan
-email: tangzx@umich.edu
+email: chenweiwu99@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,7 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-#google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?hl=en&user=CLXB-24AAAAJ&view_op=list_works&sortby=pubdate
 cv_link: assets/files/Zhengxu_Tang_Resume.pdf
 github_link: https://github.com/TangZhengxu
 linkedin: https://linkedin.com/in/zhengxu-tang-01049319a
