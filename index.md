@@ -5,7 +5,7 @@ layout: homepage
 
 ## About Me
 
-Hi! This is **Chenwei Wu** . I previously graduated from University of Rochester with B.S. in Data Science and Financial Economics and from Harvard University with S.M. in Data Science. 
+Hello! This is **Chenwei Wu** . I previously graduated from University of Rochester with B.S. in Data Science and Financial Economics and from Harvard University with S.M. in Data Science. 
 
 At present, I'm a Biomedical AI researcher at the University of Michigan. I am interested in tackling practical challenges that hinders the real-life deployment of medical AI systems, including but not limited to multimodal learning, data & label efficiency, and fairness. I have experiences with various medical modalities, such as text, EHR, ECG, EEG, fMRI, X-Ray, Retinal Scans, CT, OCT, and dermoscope images. 
 
