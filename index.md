@@ -24,6 +24,7 @@ Please feel free to reach out to me at chenweiwu99@gmail.com I'd love to engage 
 
 
 ## News
+- **[DEC. 2024]** My first author paper on Debiasing Multilingual LLMs with Agentic RAG for Medical QA has been accepted to AAAI'25!
 - **[OCT. 2024]** I submitted a paper to ICLR!
 
 {% include_relative _includes/publications.md %}
