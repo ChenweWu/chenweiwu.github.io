@@ -9,7 +9,7 @@ Hello! This is **Chenwei Wu** . I previously graduated from University of Roches
 
 At present, I'm a Biomedical AI researcher at the University of Michigan. I am interested in tackling practical challenges that hinders the real-life deployment of medical AI systems, including but not limited to multimodal learning, data & label efficiency, and fairness. I have experiences with various medical modalities, such as text, EHR, ECG, EEG, fMRI, X-Ray, Retinal Scans, CT, OCT, and dermoscope images. 
 
-Apart from my research, I am working on a [Evident Battery, Inc](https://batteryevidence.com/), an AI start-up I co-founded with my dear friend Dr. Jinqiang Ning.
+Apart from my research, I am working on [Evident Battery, Inc](https://batteryevidence.com/), an AI start-up I co-founded with my dear friend Dr. Jinqiang Ning.
 
 Please feel free to reach out to me at chenweiwu99@gmail.com I'd love to engage in discussions and explore opportunities for collaboration.
 
