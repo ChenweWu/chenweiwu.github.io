@@ -4,4 +4,4 @@ main:
     conference_short: "LLM"
     pdf: "https://docs.google.com/presentation/d/e/2PACX-1vQlOYH2r2xaoclpLyyK-gbuRK6nsFvBHAIGGCsCbC1oKQtZZEu8vVW5KzXXZXajQYgKmZD6nXuOztlq/pub?start=false&loop=false&delayms=3000"
     image: "./assets/img/llm.jpg"
-    notes: "Lab Meeting"
+    notes: ""
