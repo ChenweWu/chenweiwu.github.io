@@ -23,9 +23,10 @@ Please feel free to reach out to me at chenweiwu99@gmail.com I'd love to engage 
 
 
 
-## News
-- **[DEC. 2024]** My first author paper on Debiasing Multilingual LLMs with Agentic RAG for Medical QA has been accepted to AAAI'25!
-- **[OCT. 2024]** I submitted a paper to ICLR!
+## Recent News
+- **[DEC. 2024]** My third author paper on [Advances in Deep Learning for Personalized ECG Diagnostics: A Systematic Review Addressing Inter-Patient Variability and Generalization Constraints](https://www.sciencedirect.com/science/article/abs/pii/S0956566324010807)) has been accepted to Biosensors and Bioelectronics!
+- **[DEC. 2024]** My first author paper on [Debiasing Multilingual LLMs with Agentic RAG for Medical QA](https://arxiv.org/pdf/2412.14304) has been accepted to AAAI'25!
+- **[OCT. 2024]** I submitted a first author paper to ICLR!
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/presentations.md %}
